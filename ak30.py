@@ -1,3 +1,4 @@
+#start of the code 
 t = (10 , 20 , 30)
 print(t)
 print(t)
@@ -6,3 +7,4 @@ print(akhil)
 dog = {10 , 20 , 30}
 print(dog)
 print(list(dog)[0])
+#end of the code 
