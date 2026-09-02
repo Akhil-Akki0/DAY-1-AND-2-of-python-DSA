@@ -10,3 +10,4 @@ def correct_discount_calculator(price, discount_rate1):
     discounted_price_3 = price - (price * discount_rate1 / 100)
     return price - (price * discount_rate/100)
 print("The discounted price is:", correct_discount_calculator(price, discount_rate))
+#end of the code 
