@@ -1,0 +1,9 @@
+akhil = ["USN = isz25ci001","Branch = AI and ML","seaction = A"]
+print(akhil)
+print(akhil[-1])
+print(akhil[0])
+print(akhil[1:3])
+akhil.append("Ocuption = Student")
+print(akhil)
+akhil.remove("seaction = A")
+print(akhil)

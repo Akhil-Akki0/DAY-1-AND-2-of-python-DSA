@@ -1,0 +1,5 @@
+name = input("enter the name:")
+print("UPPER:", name.upper())
+print("lower:", name.lower())
+print("reverse:",name[::-1])
+print("length:",len(name))
