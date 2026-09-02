@@ -1,3 +1,4 @@
+#simple program to find the maximum , monimum and sum(adition ) of the given values
 print()
 sales = (100000 , 1200000 , 560300, 750000 , 900000 , 1200000 , 1500000 , 2000000 , 2500000 , 3000000)
 print(f"Sales: {sales}")
@@ -5,3 +6,4 @@ print()
 print(f"Maximum Sales: {max(sales)}")
 print(f"Minimum Sales: {min(sales)}")
 print(f"Total Sales: {sum(sales)}")
+#end of the program
