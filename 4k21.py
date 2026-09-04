@@ -1,3 +1,6 @@
+#the program is about simple intrest calucalater also 
+#know as intreset calucalater
+
 def simple_intrest_calucalater(Principal , Rate , Time):
     simple_intrest = (Principal * Rate * Time) / 100
     return simple_intrest
